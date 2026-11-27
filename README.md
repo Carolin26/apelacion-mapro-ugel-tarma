@@ -104,6 +104,23 @@ Para abrirlo:
 
 El análisis del proceso está en [`docs/Proceso_Apelacion_UGEL_Tarma.docx`](docs/Proceso_Apelacion_UGEL_Tarma.docx). Es la base para hacer los diagramas del modelo en Rhapsody.
 
+## Requerimientos del curso
+
+El documento oficial del proyecto está en [`docs/requerimientos-proyecto-curso.pdf`](docs/requerimientos-proyecto-curso.pdf) (Plan de Proyecto de Investigación Aplicada, IES Cibertec, 2026).
+
+Modelos que pide el curso, hechos en IBM Rhapsody:
+
+- **MCUN:** Modelo de Casos de Uso de Negocio
+- **MAN:** Modelo de Análisis de Negocio
+- **MCU:** Modelo de Casos de Uso del sistema
+
+Entregas:
+
+| Semana | Avance | Calificación |
+|---|---|---|
+| 5 | Al menos 50 % | 20 pts, sustentación grupal |
+| 7 | 100 % | 20 pts (60 % informe + 40 % sustentación) |
+
 ## Autores
 
 - [Carolin26](https://github.com/Carolin26): documento del análisis
