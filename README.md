@@ -86,3 +86,19 @@ Registrado en UGEL → Remitido a DRE → En evaluación en DRE → Resuelto por
 ## Para qué sirve el modelo
 
 Deja claro quién hace qué, con qué documentos y en qué estado está el expediente. Eso facilita detectar demoras y proponer mejoras al proceso.
+
+## Modelo en Rhapsody
+
+> **Borrador:** el modelo todavía se está modificando.
+
+El proyecto de IBM Rhapsody está en [`modelo/UGELTarma_apelacion.zip`](modelo/UGELTarma_apelacion.zip).
+
+Para abrirlo:
+
+1. Descarga y descomprime el zip.
+2. En IBM Rhapsody, abre `UGELTarma_apelacion/UGELTarma_apelacion.rpyx`.
+
+## Autores
+
+- [Sadge03](https://github.com/Sadge03)
+- [CaptainBoar](https://github.com/CaptainBoar)
