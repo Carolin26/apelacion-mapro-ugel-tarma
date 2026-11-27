@@ -98,7 +98,14 @@ Para abrirlo:
 1. Descarga y descomprime el zip.
 2. En IBM Rhapsody, abre `UGELTarma_apelacion/UGELTarma_apelacion.rpyx`.
 
+## Documento del análisis
+
+> **Borrador:** el documento todavía se está modificando.
+
+El análisis del proceso está en [`docs/Proceso_Apelacion_UGEL_Tarma.docx`](docs/Proceso_Apelacion_UGEL_Tarma.docx). Es la base para hacer los diagramas del modelo en Rhapsody.
+
 ## Autores
 
-- [Sadge03](https://github.com/Sadge03)
-- [CaptainBoar](https://github.com/CaptainBoar)
+- [Carolin26](https://github.com/Carolin26): documento del análisis
+- [Sadge03](https://github.com/Sadge03): modelo en Rhapsody
+- [CaptainBoar](https://github.com/CaptainBoar): modelo en Rhapsody
