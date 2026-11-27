@@ -108,6 +108,8 @@ El análisis del proceso está en [`docs/Proceso_Apelacion_UGEL_Tarma.docx`](doc
 
 El documento oficial del proyecto está en [`docs/requerimientos-proyecto-curso.pdf`](docs/requerimientos-proyecto-curso.pdf) (Plan de Proyecto de Investigación Aplicada, IES Cibertec, 2026).
 
+El informe final sigue la plantilla [`docs/plantilla-informe-proyecto.pdf`](docs/plantilla-informe-proyecto.pdf) (Plantilla de Informe de Proyecto, Nivel 1).
+
 Modelos que pide el curso, hechos en IBM Rhapsody:
 
 - **MCUN:** Modelo de Casos de Uso de Negocio
